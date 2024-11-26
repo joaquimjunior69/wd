@@ -2,4 +2,4 @@ yt-dlp
 pytube
 inquirer
 ffmpeg
-tqdm
+rich
